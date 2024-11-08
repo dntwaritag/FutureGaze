@@ -1,4 +1,4 @@
-# futuregaze
+![image](https://github.com/user-attachments/assets/8d206f41-afef-44cb-9676-246ff549a005)# futuregaze
 
 A new Flutter project.
 
@@ -7,6 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+![FutureGaze](https://github.com/user-attachments/assets/8b2ce2ea-203a-4bf7-a3bb-bd54a87c87d6)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
