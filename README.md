@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 FutureGaze
-FutureGaze is a simple Flutter-based app designed to provide users with a fun and insightful prediction about their future! The app allows users to input text, click a button, and display a static prediction. Built using Flutter, FutureGaze offers a clean and responsive user interface suitable for all devices.
+FutureGaze is a simple Flutter-based app designed to provide users with a fun and insightful predictions about their future! The app allows users to input text, click a button, and display a static prediction. Built using Flutter, FutureGaze offers a clean and responsive user interface suitable for all devices.
 
 Features
 User Input: Users can input data using a text field.
