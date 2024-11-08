@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/8d206f41-afef-44cb-9676-246ff549a005)# futuregaze
-
 A new Flutter project.
 
 ## Getting Started
